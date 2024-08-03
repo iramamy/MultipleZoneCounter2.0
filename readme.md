@@ -48,15 +48,6 @@
 - **🎯 T**: Start the model for tracking.
 - **❌ Q**: Quit the application.
 
-## 🏷️ Tags:
-- Ultralytics
-- Computer vision
-- Object tracking
-- OpenCV
-- Real-time Tracking
-- Machine Learning
-- Image Analysis
-
 ## Code
 ```python
 import cv2
@@ -324,3 +315,15 @@ def run(
 if __name__ == "__main__":
     run()
 ```
+
+## 🏷️ Tags:
+- Ultralytics
+- Computer vision
+- Object tracking
+- OpenCV
+- Real-time Tracking
+- Machine Learning
+- Image Analysis
+
+## Credit idea
+The idea comes from [Ultralytics](https://docs.ultralytics.com/guides/region-counting/)
