@@ -53,5 +53,15 @@ Ensure you have the following dependencies installed:
 - **R**: Remove the last drawn point.
 - **S**: Save all drawn regions and switch to playback mode.
 - **P**: Pause and resume playback.
+- **T**: Start the model for tracking
 - **Q**: Quit the application.
+
+## Tags:
+- Ultralytics
+- Computer vision
+- Object tracking
+- OpenCV
+- Real-time Tracking
+- Machine Learning
+- Image Analysis
 
