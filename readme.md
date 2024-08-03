@@ -1,6 +1,6 @@
 # 🎯 Multiple Zone Counter 2.0 🎯
 
-**Multiple Zone Counter 2.0** is an advanced version of the [MultipleZoneCounter](https://github.com/iramamy/MultipleZoneCounter). This tool leverages OpenCV's powerful capabilities for drawing regions of interest and integrates YOLOv8 for efficient tracking and counting within these regions.
+**Multiple Zone Counter 2.0** is an advanced version of the [MultipleZoneCounter](https://github.com/iramamy/MultipleZoneCounter). This tool leverages OpenCV's powerful capabilities for drawing regions of interest and integrates YOLOv8 for efficient tracking and counting objects of interests within these regions.
 
 ## ✨ Features
 
